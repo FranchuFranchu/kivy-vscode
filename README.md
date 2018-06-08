@@ -28,3 +28,6 @@ Current features:
 This project uses [Mocha](http://mochajs.org/) as an testing framework and [Chai](http://chaijs.com/) as an assertion libray.
 
 Run the tests by executing the command `npm test`.
+
+
+(Github)[https://github.com/BattleBas/kivy-vscode/blob/master/README.md]
