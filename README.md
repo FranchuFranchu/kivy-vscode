@@ -30,4 +30,4 @@ This project uses [Mocha](http://mochajs.org/) as an testing framework and [Chai
 Run the tests by executing the command `npm test`.
 
 
-[https://github.com/BattleBas/kivy-vscode/blob/master/README.md](Github)
+(https://github.com/BattleBas/kivy-vscode/blob/master/README.md)[Github]
